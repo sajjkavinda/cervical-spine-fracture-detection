@@ -5,7 +5,7 @@ My project for the Deep Learning and Computer Vision project. RSNA Classificatio
 This project focuses on detecting cervical spine fractures from medical DICOM images using deep learning techniques. Two models were implemented and compared: a **custom-built CNN** and a **ResNet18** transfer learning model.
 
 ## 🧠 Overview
-- Preprocessed DICOM files into normalized PNG images.
+- Preprocessed DICOM files into normalized PNG images. (branch: dataset-subsetting)
 - Used a balanced dataset by computing **class weights** to handle data imbalance.
 - Trained and validated both models using PyTorch.
 - Evaluated using metrics: Accuracy, Precision, Recall, F1-score, and AUC.
