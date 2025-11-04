@@ -1,5 +1,3 @@
-My project for the Deep Learning and Computer Vision project. RSNA Classification to identify fractured and non fractured bones.
-
 # Cervical Spine Fracture Detection
 
 This project focuses on detecting cervical spine fractures from medical DICOM images using deep learning techniques. Two models were implemented and compared: a **custom-built CNN** and a **ResNet18** transfer learning model.
